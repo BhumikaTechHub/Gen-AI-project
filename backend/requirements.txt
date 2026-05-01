@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+torch
+peft
+accelerate
+pymupdf
+python-dotenv
